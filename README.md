@@ -7,3 +7,4 @@ The contents of this git include:
 2. A simple decision tree classifier for the iris data set (80% training, 20% testing)
 3. A comparison of classification accuracies of three commonly used models for the Titanic Survivability problem.
 4. Exploring the Convolution Operation in Convolutional Neural Networks
+5. A Sequence-2-Sequence Bidirectional LSTM for (non-gibberish!) Lord of The Rings poetry generation
